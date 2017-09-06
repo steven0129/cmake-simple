@@ -1,0 +1,3 @@
+/home/h3584935/桌面/cmake-simple/CMakeFiles/edit_cache.dir
+/home/h3584935/桌面/cmake-simple/CMakeFiles/rebuild_cache.dir
+/home/h3584935/桌面/cmake-simple/CMakeFiles/hello.dir
